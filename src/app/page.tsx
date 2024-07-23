@@ -13,6 +13,9 @@ export default function Home() {
             <li>
               <a className="underline" href="insturment">Insturment Board</a>
             </li>
+            <li>
+              <a className="underline" href="note-list">Notes List</a>
+            </li>
           </ul>
         </div>
       </div>

@@ -2,6 +2,7 @@ Houses TypeScript/JavaScript interview questions
 
 - Game Of Life - Implement the logic to game of life
 - Instument - Make an insturment board with individual state
+- Notes List - Hacker Rank Note List managing the state on a list
 
 ## Getting Started
 
